@@ -1,7 +1,3 @@
-### Hi there 👋
-
-
-[![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=christianchiarulli&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on NVCode
 
@@ -17,4 +13,14 @@
   - Ask questions and get support on [Discord](https://discord.gg/Xb9B4Ny)
   - I'd rather you watch me on [Odysee](https://odysee.com/@chrisatmachine:f)
   - Suppot me on [Patreon](https://www.patreon.com/chrisatmachine)
+
+
+
+
+
+
+
+[![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=christianchiarulli&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
