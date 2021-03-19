@@ -11,9 +11,10 @@
 
 - 📫 How to reach me:
 
-  - [Website](https://www.chrisatmachine.com/)
-  - [YouTube](https://www.youtube.com/channel/UCS97tchJDq17Qms3cux8wcA)
-  - [Twitter](https://twitter.com/chrisatmachine)
-  - [Discord](https://discord.gg/Xb9B4Ny)
-  - [Odysee](https://odysee.com/@chrisatmachine:f)
+  - Check out my [Website](https://www.chrisatmachine.com/)
+  - Follow me on [YouTube](https://www.youtube.com/channel/UCS97tchJDq17Qms3cux8wcA)
+  - I post blogs and videos to [Twitter](https://twitter.com/chrisatmachine) 
+  - Ask questions and get support on [Discord](https://discord.gg/Xb9B4Ny)
+  - I'd rather you watch me on [Odysee](https://odysee.com/@chrisatmachine:f)
+  - Suppot me on [Patreon](https://www.patreon.com/chrisatmachine)
 
