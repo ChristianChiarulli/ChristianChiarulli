@@ -15,7 +15,7 @@
   - Btw Discord is dumb join me on [Matrix](https://matrix.to/#/+atmachine:matrix.org)
   - Suppot me on [Patreon](https://www.patreon.com/chrisatmachine)
 
-Updates and Notes
+🗒️ Updates and Notes
 
 - i3 broke on me after a recent update, guess it's time to man up and move to [DWM](https://dwm.suckless.org/)
 - If you HAVE to use VSCode, use [VSCodium](https://vscodium.com/)
