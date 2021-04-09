@@ -19,11 +19,3 @@
 
 - i3 broke on me after a recent update, guess it's time to man up and move to [DWM](https://dwm.suckless.org/)
 - If you HAVE to use VSCode, use [VSCodium](https://vscodium.com/)
-
-
-
-
-[![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=christianchiarulli&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
