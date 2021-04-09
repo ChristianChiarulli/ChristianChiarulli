@@ -13,7 +13,7 @@
   - Ask questions and get support on [Discord](https://discord.gg/Xb9B4Ny)
   - I'd rather you watch me on [Odysee](https://odysee.com/@chrisatmachine:f)
   - Btw Discord is dumb join me on [Matrix](https://matrix.to/#/+atmachine:matrix.org)
-  - Suppot me on [Patreon](https://www.patreon.com/chrisatmachine)
+  - Support me on [Patreon](https://www.patreon.com/chrisatmachine)
 
 🗒️ Updates and Notes
 
