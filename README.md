@@ -1,9 +1,9 @@
 
-- 🔭 I’m currently working on NVCode
+- 🔭 I’m currently working on LunarVim
 
 - 🌱 I’m currently learning Lua and Blockchain
 
-- 🤔 I’m looking for help with NVCode
+- 🤔 I’m looking for help with LunarVim
 
 - 📫 How to reach me:
 
@@ -17,5 +17,5 @@
 
 🗒️ Updates and Notes
 
-- i3 broke on me after a recent update, guess it's time to man up and move to [DWM](https://dwm.suckless.org/)
+- NVCode is now LunarVim, it will be focused on reducing unecessary plugins while creating a strong base to build off of.
 - If you HAVE to use VSCode, use [VSCodium](https://vscodium.com/)
