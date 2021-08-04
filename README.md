@@ -29,5 +29,4 @@
 
 🗒️ Updates and Notes
 
-- LunarVim now has a stable branch (the installer points to this branch now), if you don't use that expect things to be unstable.
-- If you HAVE to use VSCode, use [VSCodium](https://vscodium.com/)
+- LunarVim lives here now: https://github.com/LunarVim/LunarVim
