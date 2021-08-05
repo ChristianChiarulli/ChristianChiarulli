@@ -16,6 +16,7 @@
   - 💳 Support me on [Patreon](https://www.patreon.com/chrisatmachine)
   - 🪙 Stake DEV token with LunarVim on [stakes.social]( https://stakes.social/0xe014A52354136B678ff5030397224179bD0F9657)
   - ❤️ Sponsor Me [sponsor page](https://github.com/sponsors/ChristianChiarulli)
+  - 🌙 LunarVim [Website](https://www.lunarvim.org)
 
 - ₿ DONATE CRYPTO 
   - Bitcoin: bc1qlw9t04evwvvlgkwkxf3cm9mfk6zgmy09sp4uja
