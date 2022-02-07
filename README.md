@@ -1,9 +1,4 @@
-
-- 🔭 I’m currently working on LunarVim
-
-- 🌱 I’m currently learning Lua and Blockchain
-
-- 🤔 I’m looking for help with LunarVim
+- 🌱 I’m currently about Bitcoin & Blockchain Development
 
 - 📫 How to reach me:
 
@@ -30,4 +25,5 @@
 
 🗒️ Updates and Notes
 
-- LunarVim lives here now: https://github.com/LunarVim/LunarVim
+- Planning to stream Blockchain Dev Content Regularly
+- Currently Reading Mastering Bitcoin
