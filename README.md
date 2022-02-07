@@ -1,4 +1,4 @@
-- 🌱 I’m currently about Bitcoin & Blockchain Development
+- ⛓️ I’m currently about Bitcoin & Blockchain Development
 
 - 📫 How to reach me:
 
