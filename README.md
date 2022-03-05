@@ -9,7 +9,6 @@
   - 📺 I'd rather you watch me on [Odysee](https://odysee.com/@chrisatmachine:f)
   - 🎙️ Btw Discord is dumb join me on [Matrix](https://matrix.to/#/+atmachine:matrix.org)
   - 💳 Support me on [Patreon](https://www.patreon.com/chrisatmachine)
-  - 🪙 Stake DEV token with LunarVim on [stakes.social]( https://stakes.social/0xe014A52354136B678ff5030397224179bD0F9657)
   - ❤️ Sponsor Me [sponsor page](https://github.com/sponsors/ChristianChiarulli)
   - 🌙 LunarVim [Website](https://www.lunarvim.org)
 
