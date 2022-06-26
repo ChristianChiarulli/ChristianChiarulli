@@ -1,4 +1,4 @@
-- ⛓️ I’m currently learning Bitcoin & Blockchain Development
+- ⛓️ I’m currently learning Bitcoin
 
 - 📫 How to reach me:
 
@@ -18,5 +18,5 @@
 
 🗒️ Updates and Notes
 
-- Planning to stream Blockchain Dev Content Regularly
+- Planning to stream Content Regularly
 - Currently Reading Mastering Bitcoin
