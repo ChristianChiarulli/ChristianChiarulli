@@ -1,4 +1,4 @@
-- ⛓️ I’m currently learning Bitcoin
+- ⛓️ I’m currently learning about Bitcoin
 
 - 📫 How to reach me:
 
