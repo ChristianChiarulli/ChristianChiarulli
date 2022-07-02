@@ -1,4 +1,4 @@
-- ⛓️ I’m currently learning about Bitcoin
+- ⛓️ I’m currently learning Rust
 
 - 📫 How to reach me:
 
@@ -18,5 +18,4 @@
 
 🗒️ Updates and Notes
 
-- Planning to stream Content Regularly
-- Currently Reading Mastering Bitcoin
+- Streaming content M-F usually starting around 7PM
