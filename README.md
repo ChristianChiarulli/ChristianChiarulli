@@ -7,7 +7,7 @@
   - 🐦 I post blogs and videos to [Twitter](https://twitter.com/chrisatmachine) 
   - 🔌 Ask questions and get support on [Discord](https://discord.gg/Xb9B4Ny)
   - 📺 I'd rather you watch me on [Odysee](https://odysee.com/@chrisatmachine:f)
-  - 🎙️ Join me on [Matrix](https://matrix.to/#/+atmachine:matrix.org)
+  - 🎙️ Join me on [Matrix](https://matrix.to/#/#the-machine:matrix.org)
   - 💳 Support me on [Patreon](https://www.patreon.com/chrisatmachine)
   - ❤️ Sponsor Me [sponsor page](https://github.com/sponsors/ChristianChiarulli)
   - 🌙 LunarVim [Website](https://www.lunarvim.org)
