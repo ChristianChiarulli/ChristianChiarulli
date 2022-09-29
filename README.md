@@ -1,4 +1,4 @@
-- ⛓️ I’m currently learning Rust
+- ⛓️ Getting ready for LunarVim 2.0 release
 
 - 📫 How to reach me:
 
@@ -18,4 +18,4 @@
 
 🗒️ Updates and Notes
 
-- Streaming content M-F usually starting around 7PM
+- Streaming content M-F usually starting around 5:30-6:00PM
