@@ -1,4 +1,4 @@
-- ⛓️ Getting ready for LunarVim 2.0 release
+- 🎃 Hacktoberfest 2022
 
 - 📫 How to reach me:
 
