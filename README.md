@@ -19,3 +19,7 @@
 🗒️ Updates and Notes
 
 - Streaming content M-F usually starting around 5:30-6:00PM
+
+Very important non-NFT things
+
+[![@chrisatmachine's Holopin board](https://holopin.io/api/user/board?user=chrisatmachine)](https://holopin.io/@chrisatmachine)
