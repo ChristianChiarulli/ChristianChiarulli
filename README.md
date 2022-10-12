@@ -4,6 +4,7 @@
 
   - 🕸️ Check out my [Website](https://www.chrisatmachine.com/)
   - 📹 Follow me on [YouTube](https://www.youtube.com/channel/UCS97tchJDq17Qms3cux8wcA)
+  - 🎮 Follow me on [Twitch](https://www.twitch.tv/chrisatmachine)
   - 🐦 I post blogs and videos to [Twitter](https://twitter.com/chrisatmachine) 
   - 🔌 Ask questions and get support on [Discord](https://discord.gg/Xb9B4Ny)
   - 📺 I'd rather you watch me on [Odysee](https://odysee.com/@chrisatmachine:f)
