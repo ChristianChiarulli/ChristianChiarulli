@@ -13,14 +13,20 @@
   - ❤️ Sponsor Me [sponsor page](https://github.com/sponsors/ChristianChiarulli)
   - 🌙 LunarVim [Website](https://www.lunarvim.org)
 
+ <img src='https://github-readme-stats.vercel.app/api?username=christianchiarulli&show_icons=true&theme=tokyonight&count_private=true&hide=contribs,prs,total_issues'  align='right' />
+
 - ₿ DONATE CRYPTO 
   - Bitcoin: bc1qlw9t04evwvvlgkwkxf3cm9mfk6zgmy09sp4uja
   - Ethereum: 0x31202eF4Ce3d03c1B5111Bc388f937e7b17dd164
+
+
 
 🗒️ Updates and Notes
 
 - Streaming content M-F usually starting around 5:30-6:00PM
 
 Very important non-NFT things
+
+
 
 [![@chrisatmachine's Holopin board](https://holopin.io/api/user/board?user=chrisatmachine)](https://holopin.io/@chrisatmachine)
