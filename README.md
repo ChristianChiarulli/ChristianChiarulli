@@ -1,5 +1,3 @@
-- 🎃 Hacktoberfest 2022
-
 - 📫 How to reach me:
 
   - 🕸️ Check out my [Website](https://www.chrisatmachine.com/)
