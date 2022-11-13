@@ -15,10 +15,11 @@
   - 🔌 Ask questions and get support on [Discord](https://discord.gg/Xb9B4Ny)
 
 - DONATE
-  - 💳 Support me on [Patreon](https://www.patreon.com/chrisatmachine)
-  - ❤️ Sponsor Me [sponsor page](https://github.com/sponsors/ChristianChiarulli)
-  - ₿ Bitcoin: bc1qrrvlzfxqvcuf8clz6k6la9t7d8y2egqg47zcj9
-  - ☕ [Buy me a coffee](https://www.buymeacoffee.com/chrisatmachine)  
+  - ❤️  [Github Sponsors](https://github.com/sponsors/ChristianChiarulli)
+  - 💳 [Patreon](https://www.patreon.com/chrisatmachine)
+  - ☕  [Buy me a coffee](https://www.buymeacoffee.com/chrisatmachine) 
+  - ₿  Bitcoin: bc1qrrvlzfxqvcuf8clz6k6la9t7d8y2egqg47zcj9
+  
 
 
 🗒️ Updates and Notes
