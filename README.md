@@ -5,10 +5,10 @@
   - 📺 I'd rather you watch me on [Odysee](https://odysee.com/@chrisatmachine:f)
 
 - Projects
-  - 🌙 LunarVim [Website](https://www.lunarvim.org)
-  - ⚡ Zap [Website](https://www.zapzsh.org)
-  - 🟠 RaspiNode [Website](https://raspinode.org)
-  - 🕸️ Check out my [Website](https://www.chrisatmachine.com/)
+  - 🌙 [LunarVim](https://www.lunarvim.org)
+  - ⚡ [Zap](https://www.zapzsh.org)
+  - 🟠 [RaspiNode](https://raspinode.org)
+  - 🕸️ [Blog](https://www.chrisatmachine.com/)
 
 - Community
   - 🎙️ Join me on [Matrix](https://matrix.to/#/#the-machine:matrix.org)
