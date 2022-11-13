@@ -1,23 +1,30 @@
 - Socials
-  - 🕸️ Check out my [Website](https://www.chrisatmachine.com/)
   - 📹 Follow me on [YouTube](https://www.youtube.com/channel/UCS97tchJDq17Qms3cux8wcA)
-  - 🎮 Follow me on [Twitch](https://www.twitch.tv/chrisatmachine)
+  - 🎮 M-F @5:30-8:00PM [Twitch](https://www.twitch.tv/chrisatmachine)
   - 🐦 I post blogs and videos to [Twitter](https://twitter.com/chrisatmachine) 
-  - 🔌 Ask questions and get support on [Discord](https://discord.gg/Xb9B4Ny)
   - 📺 I'd rather you watch me on [Odysee](https://odysee.com/@chrisatmachine:f)
-  - 🎙️ Join me on [Matrix](https://matrix.to/#/#the-machine:matrix.org)
-  - 💳 Support me on [Patreon](https://www.patreon.com/chrisatmachine)
-  - ❤️ Sponsor Me [sponsor page](https://github.com/sponsors/ChristianChiarulli)
+
+- Projects
   - 🌙 LunarVim [Website](https://www.lunarvim.org)
   - ⚡ Zap [Website](https://www.zapzsh.org)
   - 🟠 RaspiNode [Website](https://raspinode.org)
+  - 🕸️ Check out my [Website](https://www.chrisatmachine.com/)
 
-- ₿ DONATE
-  - Bitcoin: bc1qlw9t04evwvvlgkwkxf3cm9mfk6zgmy09sp4uja
+- Community
+  - 🎙️ Join me on [Matrix](https://matrix.to/#/#the-machine:matrix.org)
+  - 🔌 Ask questions and get support on [Discord](https://discord.gg/Xb9B4Ny)
+
+- DONATE
+  - 💳 Support me on [Patreon](https://www.patreon.com/chrisatmachine)
+  - ❤️ Sponsor Me [sponsor page](https://github.com/sponsors/ChristianChiarulli)
+  - ₿ Bitcoin: bc1qrrvlzfxqvcuf8clz6k6la9t7d8y2egqg47zcj9
+  - ☕ [Buy me a coffee](https://www.buymeacoffee.com/chrisatmachine)  
+
 
 🗒️ Updates and Notes
-
-- Streaming content M-F usually starting around 5:30-6:00PM
+  - LunarVim 1.2 has be released!
+  - Zap 0.2 will be released soon
+  - Keep your 👀 on raspinode
 
 Very important non-NFT things
 
