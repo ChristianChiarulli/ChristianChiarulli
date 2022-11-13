@@ -2,7 +2,7 @@
   - ▶️ Videos on [YouTube](https://www.youtube.com/channel/UCS97tchJDq17Qms3cux8wcA)
   - 🎮 M-F @5:30-8:00PM [Twitch](https://www.twitch.tv/chrisatmachine)
   - 🐦 I post blogs and videos to [Twitter](https://twitter.com/chrisatmachine) 
-  - 📺 I'd rather you watch me on [Odysee](https://odysee.com/@chrisatmachine:f)
+  - 📺 I'm also on [Odysee](https://odysee.com/@chrisatmachine:f)
 
 - Projects
   - 🌙 [LunarVim](https://www.lunarvim.org)
