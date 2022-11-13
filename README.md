@@ -10,6 +10,8 @@
   - 💳 Support me on [Patreon](https://www.patreon.com/chrisatmachine)
   - ❤️ Sponsor Me [sponsor page](https://github.com/sponsors/ChristianChiarulli)
   - 🌙 LunarVim [Website](https://www.lunarvim.org)
+  - ⚡ Zap [Website](https://www.zapzsh.org)
+  - 🟠 RaspiNode [Website](https://raspinode.org)
 
 - ₿ DONATE CRYPTO 
   - Bitcoin: bc1qlw9t04evwvvlgkwkxf3cm9mfk6zgmy09sp4uja
