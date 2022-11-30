@@ -8,7 +8,7 @@
   - 🌙 [LunarVim](https://www.lunarvim.org)
   - ⚡ [Zap](https://www.zapzsh.org)
   - 🟠 [RaspiNode](https://raspinode.org)
-  - 🕸️ [Blog](https://www.chrisatmachine.com/)
+  - 📔 [Blog](https://www.chrisatmachine.com/)
 
 - Community
   - 🎙️ Join me on [Matrix](https://matrix.to/#/#the-machine:matrix.org)
