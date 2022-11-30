@@ -15,9 +15,9 @@
   - 🔌 Ask questions and get support on [Discord](https://discord.gg/Xb9B4Ny)
 
 - DONATE
-  - ❤️  [Github Sponsors](https://github.com/sponsors/ChristianChiarulli)
+  - ❤️ [Github Sponsors](https://github.com/sponsors/ChristianChiarulli)
   - 💳 [Patreon](https://www.patreon.com/chrisatmachine)
-  - ☕  [Buy me a coffee](https://www.buymeacoffee.com/chrisatmachine) 
+  - ☕ [Buy me a coffee](https://www.buymeacoffee.com/chrisatmachine) 
   - ₿  Bitcoin: bc1qrrvlzfxqvcuf8clz6k6la9t7d8y2egqg47zcj9
   
 
