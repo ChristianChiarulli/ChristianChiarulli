@@ -25,7 +25,7 @@
 ## Updates
   - 🌙 LunarVim 1.2 has been released!
   - ⚡ Zap 0.2 has been released!
-  - 🟠 Keep your 👀 on raspinode
+  - 🟠 Keep your 👀 on RaspiNode
 
 ## Very important non-NFT things
 
