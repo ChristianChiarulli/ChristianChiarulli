@@ -3,7 +3,7 @@
 [![Twitch](https://img.shields.io/badge/Twitch-6441A4?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/chrisatmachine)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@chris.machine)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/chrisatmachine)
-[![Odysee](https://img.shields.io/badge/Odysee-E88F26?style=for-the-badge&logo=odysee&logoColor=white)](https://odysee.com/@chrisatmachine:f)
+[![Odysee](https://img.shields.io/badge/Odysee-EF1970?style=for-the-badge&logo=odysee&logoColor=white)](https://odysee.com/@chrisatmachine:f)
 
 📅 Stream Schedule: 5:00-7:00PM random days of the week
 
