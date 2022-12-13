@@ -5,7 +5,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/chrisatmachine)
 [![Odysee](https://img.shields.io/badge/Odysee-E88F26?style=for-the-badge&logo=odysee&logoColor=white)](https://odysee.com/@chrisatmachine:f)
 
-Stream Schedule: 5:00-7:00PM random days of the week
+📅 Stream Schedule: 5:00-7:00PM random days of the week
 
 ## Community
 
@@ -20,13 +20,13 @@ Stream Schedule: 5:00-7:00PM random days of the week
 [![Ko-fi](https://img.shields.io/badge/Kofi-Ff5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/chrisatmachine)
 [![Paypal](https://img.shields.io/badge/Paypal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.com/paypalme/chrisatmachine)
 
-₿  Bitcoin: bc1qrrvlzfxqvcuf8clz6k6la9t7d8y2egqg47zcj9
+₿ Bitcoin: bc1qrrvlzfxqvcuf8clz6k6la9t7d8y2egqg47zcj9
 
 ## Updates
-  - LunarVim 1.2 has been released!
-  - Zap 0.2 has been released!
-  - Keep your 👀 on raspinode
+  - 🌙 LunarVim 1.2 has been released!
+  - ⚡ Zap 0.2 has been released!
+  - 🟠 Keep your 👀 on raspinode
 
-Very important non-NFT things
+## Very important non-NFT things
 
 [![@chrisatmachine's Holopin board](https://holopin.io/api/user/board?user=chrisatmachine)](https://holopin.io/@chrisatmachine)
