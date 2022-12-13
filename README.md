@@ -22,12 +22,6 @@ Stream Schedule: 5:00-7:00PM random days of the week
 
 ₿  Bitcoin: bc1qrrvlzfxqvcuf8clz6k6la9t7d8y2egqg47zcj9
 
-## Projects
-  - 🌙 [LunarVim](https://www.lunarvim.org) (Creator)
-  - ⚡ [Zap](https://www.zapzsh.org) (Creator)
-  - 🟠 [RaspiNode](https://raspinode.org) (Creator)
-  - 📔 [Blog](https://www.chrisatmachine.com/)
-
 ## Updates
   - LunarVim 1.2 has been released!
   - Zap 0.2 has been released!
