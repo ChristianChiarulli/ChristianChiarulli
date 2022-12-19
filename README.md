@@ -20,7 +20,12 @@
 [![Ko-fi](https://img.shields.io/badge/Kofi-Ff5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/chrisatmachine)
 [![Paypal](https://img.shields.io/badge/Paypal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.com/paypalme/chrisatmachine)
 
-₿ Bitcoin: bc1qrrvlzfxqvcuf8clz6k6la9t7d8y2egqg47zcj9
+₿ Bitcoin: bc1q57jh8rxuzhd6w0rmmeu468c72wwjy7llxt6qgf
+
+<a href="https://<YOUR_LINK>">
+  <img src="https://via.placeholder.com/50x50/FFA07A/ffffff?text=Orange+Rectangle" alt="Orange Rectangle" width="50" height="50">
+</a>
+
 
 ## Updates
   - 🌙 LunarVim 1.2 has been released!
