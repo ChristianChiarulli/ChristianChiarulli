@@ -22,10 +22,6 @@
 
 ₿ Bitcoin: bc1q57jh8rxuzhd6w0rmmeu468c72wwjy7llxt6qgf
 
-<a href="https://<YOUR_LINK>">
-  <img src="https://via.placeholder.com/50x50/FFA07A/ffffff?text=Orange+Rectangle" alt="Orange Rectangle" width="50" height="50">
-</a>
-
 
 ## Updates
   - 🌙 LunarVim 1.2 has been released!
