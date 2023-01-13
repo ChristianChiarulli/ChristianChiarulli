@@ -27,7 +27,3 @@
   - 🌙 LunarVim 1.2 has been released!
   - ⚡ Zap 0.2 has been released!
   - 🟠 Keep your 👀 on Node-Tec
-
-## Very important non-NFT things
-
-[![@chrisatmachine's Holopin board](https://holopin.io/api/user/board?user=chrisatmachine)](https://holopin.io/@chrisatmachine)
