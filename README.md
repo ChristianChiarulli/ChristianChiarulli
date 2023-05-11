@@ -24,6 +24,5 @@
 
 
 ## Updates
-  - 🌙 LunarVim 1.2 has been released!
-  - ⚡ Zap 0.2 has been released!
-  - 🟠 Keep your 👀 on Node-Tec
+  - 🌙 LunarVim 1.3 has been released!
+  - ⚡ Zap v1 has been released!
